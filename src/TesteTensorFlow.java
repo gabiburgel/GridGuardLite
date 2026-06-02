@@ -4,5 +4,5 @@ import org.tensorflow.Session;
 
 public class TesteTensorFlow {
 
-    org.tensorflow
+    /*org.tensorflow.*/
 }
