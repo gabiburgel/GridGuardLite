@@ -4,7 +4,6 @@
 
 ![Java](https://img.shields.io/badge/Java-17-red)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow%20Java-1.0.0-orange)
-![Licença](https://img.shields.io/badge/licen%C3%A7a-MIT-green)
 
 GridGuard Lite é uma aplicação de console que estima se um transformador de energia está em **risco crítico** de falha, a partir de quatro medições operacionais. O modelo é uma rede neural pequena com o **treinamento implementado do zero em Java puro** e a **classificação executada via TensorFlow**.
 
